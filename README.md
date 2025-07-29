@@ -1,0 +1,3 @@
+The Smart Energy Meter is an advanced digital metering system designed to monitor, record, and manage electrical energy consumption more efficiently than traditional meters. It measures real-time power usage, stores data, and transmits it wirelessly to a central server or a user-accessible application.
+
+This system uses a microcontroller, current and voltage sensors, and communication modules like Wi-Fi, GSM, or LoRa to automate energy monitoring. Users can access detailed energy usage statistics via a web dashboard or mobile app, enabling better energy management, timely bill payments, and detection of abnormal consumption patterns.
